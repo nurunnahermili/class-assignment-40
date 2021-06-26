@@ -1,0 +1,146 @@
+@media all and (max-width: 1200px) {
+  .menu-area {
+    margin-top: -34px;
+  }
+  .about-section .about-top img {
+    width: 400px;
+  }
+  .about-section .about-down {
+    margin-top: 10px;
+  }
+  .about-section .about-down h1 {
+    font-size: 28px;
+  }
+  .about-section .about-down p {
+    font-size: 16px;
+    width: 500px;
+  }
+  .about_section .about-item {
+    padding: 50px 0;
+  }
+  .contact-sec .you h1 {
+    font-size: 20px;
+  }
+  .contact-sec .text {
+    margin-top: -10px;
+    margin-bottom: 20px;
+  }
+}
+
+@media all and (max-width: 1200px) and (max-width: 1000px) {
+  .logo-area {
+    width: 100%;
+    text-align: center;
+  }
+  .menu-area {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .menu-area ul {
+    text-align: center;
+  }
+  .banner .banner-con {
+    margin-top: 65px;
+  }
+  .about-section .about-top {
+    width: 300px;
+    height: 230px;
+  }
+  .about-section .about-top img {
+    width: 100%;
+    height: 100%;
+  }
+  .about-section .about-down {
+    margin-top: -5px;
+    width: 300px;
+  }
+  .about-section .about-down h1 {
+    font-size: 19px;
+  }
+  .about-section .about-down p {
+    font-size: 14px;
+    width: 365px;
+    padding-bottom: -30px;
+    display: inline-block;
+  }
+  .about-section .about-down a {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+}
+
+@media all and (max-width: 1200px) and (max-width: 800px) {
+  .head {
+    margin-top: -15px;
+    margin-bottom: -30px;
+  }
+  .banner .banner-con {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 30px;
+  }
+  .banner .banner-pic {
+    width: 100%;
+    margin-left: 30px;
+    margin: auto;
+    display: inline-block;
+  }
+  .about-section .about-top {
+    width: 70%;
+    margin: auto;
+  }
+  .about-section .about-top img {
+    width: 100%;
+    height: 100%;
+  }
+  .about-section .about-down {
+    margin-top: 50px;
+    width: 400px;
+    margin-left: 130px;
+  }
+  .about-section .about-down h6 {
+    margin-top: 30px;
+  }
+  .foot-area p {
+    font-size: 13px;
+  }
+}
+
+@media all and (max-width: 750px) {
+  .about-section .about-down {
+    margin-left: px;
+    width: 300px;
+  }
+  .about-section .about-down h1 {
+    font-size: 18px;
+  }
+  .about-section .about-down p {
+    font-size: 14px;
+    width: 250px;
+  }
+  .app-area .mid-section {
+    line-height: 1em;
+  }
+  .app-area .mid-section h1 {
+    width: 50px;
+    height: 50px;
+    padding-top: 8px;
+  }
+  .app-area .mid-section p {
+    font-size: 15px;
+  }
+}
+
+@media all and (max-width: 650px) {
+  .about-section .about-down {
+    margin-left: 90px;
+  }
+}
+
+@media all and (max-width: 550px) {
+  .about-section .about-down {
+    margin-left: 60px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */

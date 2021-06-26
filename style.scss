@@ -1,0 +1,194 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.head{
+  padding: 15px 0;
+  margin-bottom: -10px;
+    .logo-area{
+      span{
+          font-size: 20px;
+          color: #76A2FE;
+          label{
+            font-size: 18px;
+          color: #000;
+          font-weight: bold;
+          margin-left: 10px;
+          }
+      }
+    }
+
+   .menu-area{
+       text-align: end;
+      
+       ul{
+
+           li{
+               display: inline-block;
+               a{
+                   padding: 0px 15px;
+                   font-size: 17px;
+                   color: #000;
+                   text-decoration: none;
+
+                   &.active{
+                      color: #000;
+                      font-weight: 500; 
+                   }
+
+               }
+           }
+       }
+   }
+
+
+
+
+}
+
+
+// banner
+.banner{
+    background: #f9f9ff;
+    padding: 50px 0;
+
+    .banner-con{
+        margin-top: 150px;
+
+        h1{
+            font-size: 40px;
+
+        }
+        h6{
+            font-size: 20px;
+
+
+        }
+        p{
+
+        }
+        a{
+         margin-top: 30px;
+         padding: 10px 20px;
+         text-decoration: none;
+         color: #f9f9ff;
+         background: #878FFF;
+         border-radius: 10px;   
+
+        }
+    }
+
+  .banner-pic{
+      img{
+          width: 100%;
+
+      }
+  }
+}
+
+
+// about-section
+
+
+.about-section{
+        padding: 60px 0;
+    .about-top{
+        img{
+            border: 1px solid rgb(241, 237, 237);
+            width: 500px;
+        }
+    }
+   .about-down{
+       margin-top: 30px;
+       width: 500px;
+       margin-left: 50px;
+      h6{
+
+      }
+      h1{
+
+      }
+      p{
+
+      }
+      a{
+       
+        padding: 10px 15px;
+        text-decoration: none;
+        color: #f9f9ff;
+        background: #878FFF;
+        border-radius: 10px;   
+
+      } 
+   }
+
+
+
+}
+// range
+
+.range{
+    background: #878FFF;
+    padding: 60px 0;
+
+   .inner-range{
+       color: #f9f9ff;
+       text-align: center;
+   }
+
+
+
+}
+// app
+
+.app-area {
+    background: #f1f2f6;
+    .mid-section{
+        background: #fff;
+        border-radius: 5px;
+        box-shadow: 5px 5px 9px rgba(100, 107, 165, 0.6);
+      h1{
+          background:rgba(215, 216, 236, 0.6);
+          width: 80px;
+          height: 80px;
+          padding-top: 15px;
+          border-radius: 50%;
+          display: inline-block;
+          text-align: center;
+      }     
+     button{
+       color: #878FFF;
+       border: 1px solid #878FFF;
+       background: #fff;
+       padding: 10px 15px;
+       border-radius: 5px;
+       margin-bottom: 20px;
+       font-size: 20px;
+     }   
+    }
+}
+
+.about_section {
+    margin-top: 50px;
+    .about-item {
+        .card {
+            img {
+                margin-top: -50px;
+            }
+        }
+    }
+}
+
+
+.contact-sec{
+    background: #f9f9ff;
+
+    .text {
+        margin-top: 150px;
+        padding-left: 30px;
+    }
+
+
+
+}
